@@ -15,8 +15,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/ForyoungYu/ForyoungYu/assets/github-contribution-grid-snake.svg" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/ForyoungYu/ForyoungYu/assets/github-contribution-grid-snake.svg" /></div>
 
 <br/>
 
@@ -94,11 +93,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 <a href="https://img.shields.io/badge/telegram-Follow-blue">
 </a>  
 </div>  
-  
+
+<!-- Github 信息统计 -->
+<!-- metrics.lecoq.io -->
+## Metrics
 <br/>
+<div align="center">
+<img src="https://metrics.lecoq.io/ForyoungYu?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics"/>
+</div>
 
 <!-- 统计卡片 -->
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 ## Github Stats
 
 > the projects I'm working on
@@ -110,17 +115,22 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 
 <bt/>
 
+<!-- GitHub 活动统计图 -->
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
 ## GitHub Readme Activity Graph
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=ForyoungYu&theme=xcode" />
 </div>
 
+<!-- GitHub 资料奖杯 -->
+<!-- https://github.com/ryo-ma/github-profile-trophy/ -->
 ## GitHub Profile Trophy
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ForyoungYu" />
 </div>
+
 
 <!-- Spotify -->
 
@@ -136,3 +146,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ForyoungYu&&style=flat-square" align="center" />
 </div>
+
+
