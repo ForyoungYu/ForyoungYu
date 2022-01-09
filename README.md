@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/ForyoungYu/ForyoungYu/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **ForyoungYu/ForyoungYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
