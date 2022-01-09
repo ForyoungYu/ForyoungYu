@@ -97,9 +97,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 <!-- Github 信息统计 -->
 <!-- metrics.lecoq.io -->
 ## Metrics
-<br/>
+
 <div align="center">
-<img src="https://metrics.lecoq.io/ForyoungYu?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics"/>
+<img src="https://metrics.lecoq.io/ForyoungYu?template=classic&people=1&activity=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" alt="Metrics"/>
 </div>
 
 <!-- 统计卡片 -->
