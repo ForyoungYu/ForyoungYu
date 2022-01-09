@@ -14,8 +14,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 <bt/>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="cenger">
-<img src="https://raw.githubusercontent.com/ForyoungYu/ForyoungYu/main/assets/github-contribution-grid-snake.svg" />
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/ForyoungYu/ForyoungYu/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
