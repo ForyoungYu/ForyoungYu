@@ -1,15 +1,7 @@
-<!-- 标题动图 -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=print(%22Hello%2C+World!%22);天天开心！&center=true&size=27">
-</h1>
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
 <!-- 统计访问次数 -->
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.svg) visitor.
+<div align="center">
+<p>You are my <img src="https://profile-counter.glitch.me/ForyoungYu/count.svg" alt="Visitor Count"> visitor.</p>
+</div>
 
 <bt/>
 
@@ -23,7 +15,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 
 ## I'm Foryoung Yu 👨‍🎓
 
-- 🔭 I’m currently working on [dotconfigs](https://github.com/ForyoungYu/dotconfigs)
+<!-- - 🔭 I’m currently working on [dotconfigs](https://github.com/ForyoungYu/dotconfigs) -->
 
 - 🌱 I’m currently learning **Deep Learning** and **PytTorch**
 
@@ -95,12 +87,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 </div>  
 
 <!-- Github 信息统计 -->
-<!-- metrics.lecoq.io -->
-## Metrics
-
-<div align="center">
-<img src="https://metrics.lecoq.io/ForyoungYu?template=classic&people=1&activity=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" alt="Metrics"/>
-</div>
 
 <!-- 统计卡片 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -121,14 +107,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ForyoungYu/count.s
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=ForyoungYu&theme=xcode" />
-</div>
-
-<!-- GitHub 资料奖杯 -->
-<!-- https://github.com/ryo-ma/github-profile-trophy/ -->
-## GitHub Profile Trophy
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ForyoungYu" />
 </div>
 
 
