@@ -17,7 +17,7 @@
 
 <!-- - 🔭 I’m currently working on [dotconfigs](https://github.com/ForyoungYu/dotconfigs) -->
 
-- 🌱 I’m currently learning **Deep Learning** and **PytTorch**
+- 🌱 I’m currently learning **Deep Learning** and **PyTorch**
 
 - 🥰 I love **Reading** and **Programing**
 
